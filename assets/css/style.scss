@@ -328,32 +328,32 @@ section {
 }
 
 .crossfade > figure:nth-child(1) {
-  background-image: url('../rainier/path.jpg');
+  background-image: url('../rainier/path-small.jpg');
 }
 
 .crossfade > figure:nth-child(2) {
   animation-delay: 6s;
-  background-image: url('../rainier/wood.jpg');
+  background-image: url('../rainier/wood-small.jpg');
 }
 
 .crossfade > figure:nth-child(3) {
   animation-delay: 12s;
-  background-image: url('../rainier/tradition.jpg');
+  background-image: url('../rainier/tradition-small.jpg');
 }
 
 .crossfade > figure:nth-child(4) {
   animation-delay: 18s;
-  background-image: url('../rainier/tailgating.jpg');
+  background-image: url('../rainier/tailgate-small.jpg');
 }
 
 .crossfade > figure:nth-child(5) {
   animation-delay: 24s;
-  background-image: url('../rainier/mountain.jpg');
+  background-image: url('../rainier/mountain-small.jpg');
 }
 
 .crossfade > figure:nth-child(6) {
   animation-delay: 30s;
-  background-image: url('../rainier/homegrown.jpg');
+  background-image: url('../rainier/homegrown-small.jpg');
 }
 
 @keyframes imageAnimation {
